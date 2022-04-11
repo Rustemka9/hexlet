@@ -1,0 +1,23 @@
+body {
+    background-color: #CFEAF0;
+    text-align: center;
+}
+
+kbd {
+    position: relative;
+    flex-grow: 1;
+    background-color: #ffffff;
+    height: 100px;
+    width: 20px;
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.container {
+    position: relative;
+    width: 23%;
+    margin: auto;
+    display: flex;
+}
+
